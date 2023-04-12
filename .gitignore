@@ -1,0 +1,68 @@
+# General
+.vscode
+
+# Cache files
+*.log
+*.swp
+*.swo
+*.swn
+*.bak
+*.cache
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# MATLAB
+*.asv
+*.m~*
+
+# C++
+*.o
+*.obj
+*.out
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Docker
+*.env
+.dockerignore
+
+# R
+.Rhistory
+.RData
+.Rproj.user
+.Ruserdata
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Linux
+*~
+.cache/
+
+# Folders
+**/hidden/
+
+docker/example-project
+gists/
+javascript/
+nlp/
+projects/
+research/
+technical-challenges/
+writings/
