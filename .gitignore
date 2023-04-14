@@ -59,10 +59,10 @@ Desktop.ini
 **/hidden/
 
 docker/example-project
-gists/
-javascript/
 nlp/
 projects/
-research/
 technical-challenges/
 writings/
+
+# Files
+research/**/*.pdf
