@@ -14,6 +14,7 @@ __pycache__/
 *.pyc
 *.pyo
 *.pyd
+**/venv/
 
 # Node.js
 node_modules/
@@ -38,6 +39,9 @@ yarn-error.log
 *.env
 .dockerignore
 
+# Database
+*.db
+
 # R
 .Rhistory
 .RData
@@ -56,13 +60,8 @@ Desktop.ini
 .cache/
 
 # Folders
-**/hidden/
-
-docker/example-project
-nlp/
-projects/
-technical-challenges/
-writings/
+.trash/*
+nlp/*
 
 # Files
 research/**/*.pdf
