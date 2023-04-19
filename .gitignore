@@ -37,7 +37,6 @@ yarn-error.log
 
 # Docker
 *.env
-.dockerignore
 
 # Database
 *.db
@@ -60,8 +59,7 @@ Desktop.ini
 .cache/
 
 # Folders
-.trash/*
-nlp/*
+.hidden/*
 
 # Files
-research/**/*.pdf
+resources/**/*.pdf
