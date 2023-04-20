@@ -58,14 +58,21 @@ Desktop.ini
 *~
 .cache/
 
-# Folders
-.hidden/*
-nlp/wav2vec2/
+# Hidden Files
+cpp/tesseract_ocr.cpp
+
+javascript/explorer/
+
 nlp/xlsr/
+nlp/wav2vec2/
 
 projects/audio-anomaly-detection/
+
 projects/github-activity-monitoring/
+
 projects/traveling-salesman-problem/
 
-# Files
+python/file_operations.py
+python/optimization-theory/
+
 resources/**/*.pdf
