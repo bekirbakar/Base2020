@@ -61,6 +61,11 @@ Desktop.ini
 # Folders
 .hidden/*
 nlp/wav2vec2/
+nlp/xlsr/
+
+projects/audio-anomaly-detection/
+projects/github-activity-monitoring/
+projects/traveling-salesman-problem/
 
 # Files
 resources/**/*.pdf
