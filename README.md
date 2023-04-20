@@ -21,5 +21,5 @@ This repository contains a variety of files that I use to store my code snippets
 ## Usage
 
 <p align="justify">
-Feel free to browse through the folders in this repository. You may find useful code snippets, cheat sheets, and small projects that can be used as a starting point for your own projects. If you find something interesting, feel free to fork this repository and make it your own!
+While this repository serves as a personal workspace, contributions and suggestions are always welcome.
 </p>
