@@ -60,6 +60,7 @@ Desktop.ini
 
 # Folders
 .hidden/*
+nlp/wav2vec2/
 
 # Files
 resources/**/*.pdf
