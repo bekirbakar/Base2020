@@ -66,11 +66,9 @@ javascript/explorer/
 nlp/xlsr/
 nlp/wav2vec2/
 
-projects/audio-anomaly-detection/
-
-projects/github-activity-monitoring/
-
-projects/traveling-salesman-problem/
+projects/challenges/audio-anomaly-detection/
+projects/challenges/github-activity-monitoring/
+projects/challenges/travelling-salesman-problem/
 
 python/file_operations.py
 python/optimization-theory/
