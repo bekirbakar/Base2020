@@ -59,8 +59,6 @@ Desktop.ini
 .cache/
 
 # Hidden Files
-cpp/tesseract_ocr.cpp
-
 javascript/explorer/
 
 nlp/xlsr/
@@ -74,3 +72,5 @@ python/file_operations.py
 python/optimization-theory/
 
 resources/**/*.pdf
+
+hidden/*
