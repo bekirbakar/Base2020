@@ -1,8 +1,15 @@
 #!/bin/bash
 
-# This script removes intermediate and cache files generated during LaTeX
-# document compilation. It is useful for cleaning up a working directory
-# containing LaTeX source files.
+working_directory=$1
+
+if [ -z "$working_directory" ]; then
+    echo "Usage: clean-cache-files.sh <working-directory>"
+    exit 1
+fi
+
+cd $working_directory
+
+# Deletes intermediate and cache files from the current directory.
 
 # File extensions to remove.
 EXTENSIONS=(
