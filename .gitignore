@@ -58,19 +58,5 @@ Desktop.ini
 *~
 .cache/
 
-# Hidden Files
-javascript/explorer/
-
-nlp/xlsr/
-nlp/wav2vec2/
-
-projects/challenges/audio-anomaly-detection/
-projects/challenges/github-activity-monitoring/
-projects/challenges/travelling-salesman-problem/
-
-python/file_operations.py
-python/optimization-theory/
-
-resources/**/*.pdf
-
-hidden/*
+# Hidden Files
+archive
